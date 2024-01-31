@@ -1,3 +1,3 @@
 # Git-Practice
 
-## Sub Heading
+## This is sub Heading
